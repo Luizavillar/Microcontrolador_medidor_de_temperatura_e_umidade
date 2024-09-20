@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0045F7&width=435&lines=%E2%98%80+++Microcontrolador++%E2%9B%88%EF%B8%8E;%E2%9D%85medidor+de+temperatura+e+umidade%E2%98%81" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0045F7&width=435&lines=%E2%98%80+++Microcontrolador : ++%E2%9B%88%EF%B8%8E;%E2%9D%85medidor+de+temperatura+e+umidade%E2%98%81" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -14,13 +14,11 @@
 - Arquivo para o código fonte;
 - A tecnologia é a arte de tornar possível o que parecia impossível.
 
-
-
 <br>
 
 ## Objetivo: 
 
-Este projeto tem como objetivo medir a temperatura e a umidade do ambiente utilizando o sensor DHT11, um microcontrolador Arduino e uma protoboard. 
+Este projeto tem como objetivo medir a temperatura e a umidade do ambiente utilizando o sensor DHT11, um microcontrolador, um Arduino e uma protoboard. Essas informações são processadas pelo Arduino e podem ser usadas para diversas aplicações, como sistemas de monitoramento de ambientes ou controle de dispositivos baseados nas condições ambientais.
 
 <br>
 
@@ -28,9 +26,8 @@ Este projeto tem como objetivo medir a temperatura e a umidade do ambiente utili
 
 - 1 Arduino Uno: Microcontrolador responsável por processar as leituras e controlar o sistema.
 - 1 Sensor DHT11: Sensor digital para medir a temperatura e a umidade do ambiente.
-- 1 Protoboard: Usada para facilitar a conexão dos componentes.
+- 1 Protoboard: Usada para a conexão dos componentes.
 - 3 Cabos Macho-Macho: Para realizar as conexões entre o Arduino, o sensor e a protoboard.
-
  
 <br> 
 
@@ -40,6 +37,18 @@ O sistema lê a temperatura e a umidade do ambiente em tempo real, utilizando o 
 
 <br>
 
+## Estrutura do Código:
+
+Setup: Configuração inicial do sensor DHT11 e do monitor serial para exibir as informações.
+Loop: O sistema faz leituras contínuas de temperatura e umidade e exibe os resultados no Monitor Serial. Caso as leituras falhem, uma mensagem de erro será exibida.
+
+<br>
+
+## Possíveis Expansões:
+
+Este projeto pode ser expandido com a adição de LEDs para indicar níveis de temperatura e umidade como alto, moderado e baixo.
+
+<br>
 
 ## Licença:
 Este projeto é de uso livre para fins acadêmicos e educacionais.
