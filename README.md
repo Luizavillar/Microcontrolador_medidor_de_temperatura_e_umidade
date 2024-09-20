@@ -43,8 +43,8 @@ O sistema lê a temperatura e a umidade do ambiente em tempo real, utilizando o 
 
 <h3>Estrutura do Código:</h3> 
 
-Setup: Configuração inicial do sensor DHT11 e do monitor serial para exibir as informações.
-Loop: O sistema faz leituras contínuas de temperatura e umidade e exibe os resultados no Monitor Serial. Caso as leituras falhem, uma mensagem de erro será exibida.
+Setup: Configuração inicial do sensor DHT11 e do monitor serial para exibir as informações. <br>
+Loop: O sistema faz leituras contínuas de temperatura e umidade e exibe os resultados no Monitor Serial.
 <br>
 
 #
