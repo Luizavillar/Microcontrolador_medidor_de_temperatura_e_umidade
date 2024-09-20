@@ -16,40 +16,55 @@
 
 <br>
 
-## Objetivo: 
+#
+ <h3>Objetivo:</h3> 
 
 Este projeto tem como objetivo medir a temperatura e a umidade do ambiente utilizando o sensor DHT11, um microcontrolador, um Arduino e uma protoboard. Essas informações são processadas pelo Arduino e podem ser usadas para diversas aplicações, como sistemas de monitoramento de ambientes ou controle de dispositivos baseados nas condições ambientais.
-
 <br>
 
-## Componentes Utilizados:
+#
+
+<h3>Componentes Utilizados:</h3> 
 
 - 1 Arduino Uno: Microcontrolador responsável por processar as leituras e controlar o sistema.
 - 1 Sensor DHT11: Sensor digital para medir a temperatura e a umidade do ambiente.
 - 1 Protoboard: Usada para a conexão dos componentes.
 - 3 Cabos Macho-Macho: Para realizar as conexões entre o Arduino, o sensor e a protoboard.
- 
-<br> 
-
-## Descrição do Projeto:
-
-O sistema lê a temperatura e a umidade do ambiente em tempo real, utilizando o sensor DHT11. Essas informações são processadas pelo Arduino e podem ser usadas para diversas aplicações, como sistemas de monitoramento de ambientes ou controle de dispositivos baseados nas condições ambientais.
-
 <br>
 
-## Estrutura do Código:
+#
+
+<h3>Descrição do Projeto:</h3> 
+
+O sistema lê a temperatura e a umidade do ambiente em tempo real, utilizando o sensor DHT11. Essas informações são processadas pelo Arduino e podem ser usadas para diversas aplicações, como sistemas de monitoramento de ambientes ou controle de dispositivos baseados nas condições ambientais.
+<br>
+
+#
+
+<h3>Estrutura do Código:</h3> 
 
 Setup: Configuração inicial do sensor DHT11 e do monitor serial para exibir as informações.
 Loop: O sistema faz leituras contínuas de temperatura e umidade e exibe os resultados no Monitor Serial. Caso as leituras falhem, uma mensagem de erro será exibida.
-
 <br>
 
-## Possíveis Expansões:
+#
+
+<h3>Dependências:</h3> 
+
+- Biblioteca DHT para Arduino. Para instalar:
+- No Arduino IDE, vá até "Sketch" > "Include Library" > "Manage Libraries".
+- Procure por "DHT sensor library" e instale a biblioteca oficial.
+<br>
+
+#
+
+<h3>Possíveis Expansões:</h3> 
 
 Este projeto pode ser expandido com a adição de LEDs para indicar níveis de temperatura e umidade como alto, moderado e baixo.
-
 <br>
 
-## Licença:
+#
+
+<h3>Licença:</h3> 
 Este projeto é de uso livre para fins acadêmicos e educacionais.
 
