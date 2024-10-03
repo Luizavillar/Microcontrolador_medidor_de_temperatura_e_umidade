@@ -28,10 +28,10 @@ Este projeto tem como objetivo medir a temperatura e a umidade do ambiente utili
 
 <h3>Componentes Utilizados:</h3> 
 
-- 1 Arduino Uno: Microcontrolador responsável por processar as leituras e controlar o sistema.
-- 1 Sensor DHT11 com 4 pinos: Sensor digital para medir a temperatura e a umidade do ambiente.
-- 1 Protoboard: Usada para a conexão dos componentes.
-- 3 Cabos Macho-fêmea: Para realizar as conexões entre o Arduino, o sensor e a protoboard.
+- 1 Arduino Uno: Microcontrolador responsável por processar as leituras e controlar o sistema;
+- 1 Sensor DHT11 com 4 pinos: Sensor digital para medir a temperatura e a umidade do ambiente;
+- 1 Protoboard: Usada para a conexão dos componentes;
+- 3 Cabos Macho-fêmea: Para realizar as conexões entre o Arduino, o sensor e a protoboard;
 - 1 Resistor: Utilizado para limitar a corrente elétrica no circuito, protegendo o sensor e outros componentes conectados ao Arduino. 
 <br>
 
