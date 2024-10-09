@@ -70,7 +70,7 @@ Este projeto pode ser expandido com a adição de LEDs para indicar níveis de t
 
 <h3>Vídeo sobre o projeto no Youtube:</h3>
 
-Clipchamp.com/pt-br/ ](https://www.youtube.com/watch?v=hNtv6n7JoGY)
+Link do vídeo: https://www.youtube.com/watch?v=hNtv6n7JoGY
 
 #
 
