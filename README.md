@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://lobodarobotica.com/blog/wp-content/uploads/2020/08/unnamed.png" width="350px" align="right" alt="Iagem arduino">
+<img src="https://lobodarobotica.com/blog/wp-content/uploads/2020/08/unnamed.png" width="350px" align="right" alt="Imagem arduino">
 
 
 
