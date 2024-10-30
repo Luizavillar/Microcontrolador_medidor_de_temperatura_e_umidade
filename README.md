@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://lobodarobotica.com/blog/wp-content/uploads/2020/08/unnamed.png" width="350px" align="right" alt="Imagem arduino">
+<img src="https://www.makerhero.com/wp-content/uploads/2013/08/Circuito_DHT111.jpg" width="350px" align="right" alt="Imagem arduino">
 
 
 
